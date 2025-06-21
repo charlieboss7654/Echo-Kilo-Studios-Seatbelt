@@ -12,7 +12,7 @@ An immersive seatbelt system built with full customization, sound effects, indic
 - Buckle sounds for everyone else in the vehicle (Can be disabled)
 - Double-clicking 'F' will remove the seatbelt instantly. Press 'F' again to exit the vehicle.
 
-## ?? How to Install:
+##  How to Install:
 1. Place `EKS_Seatbelt` into your FiveM server's `resources` directory.
 2. Add the following to your server’s `server.cfg`
    ensure EKS_Seatbelt
@@ -26,7 +26,7 @@ If you used another seatbelt script before that used the same keybind, it may st
 Go to `ESC` ? `Settings` ? `Keybinds` ? `FiveM`, and look for any duplicate bindings that use the same key (default is `B`).  
 If you see another “Seatbelt” entry that doesn’t say `(EKS_Seatbelt)`, unbind it.
 
-## ?? Support:
+##  Support:
 For any issues or help, contact R. Robertson directly on discord @operatorecho_kilo or email me on the email found in the LICENCE!
 
 **IMPORTANT - DO NOT CHANGE THE NAME OF THE FOLDER ELSE THE SCRIPT WILL NOT WORK!**

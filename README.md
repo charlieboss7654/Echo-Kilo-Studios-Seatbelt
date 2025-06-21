@@ -18,12 +18,12 @@ An immersive seatbelt system built with full customization, sound effects, indic
    ensure EKS_Seatbelt
 3. Adjust the `config.lua` settings to your liking.
 
-## ? Frequently Asked Questions:
+## Frequently Asked Questions:
 **Why does the seatbelt buckle and unbuckle at the same time when I toggle it?**  
 If you used another seatbelt script before that used the same keybind, it may still be saved in your client settings.
 
 **How to fix:**  
-Go to `ESC` ? `Settings` ? `Keybinds` ? `FiveM`, and look for any duplicate bindings that use the same key (default is `B`).  
+Go to `ESC` > `Settings` > `Keybinds` > `FiveM`, and look for any duplicate bindings that use the same key (default is `B`).  
 If you see another “Seatbelt” entry that doesn’t say `(EKS_Seatbelt)`, unbind it.
 
 ##  Support:
